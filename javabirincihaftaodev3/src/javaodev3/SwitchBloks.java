@@ -1,6 +1,6 @@
 package javaodev3;
 
-public class switchBloks {
+public class SwitchBloks {
 
 	public static void main(String[] args) {
 		/*
